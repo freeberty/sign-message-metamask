@@ -9,3 +9,6 @@ To sign you need to set tg_user_id param , and result will be displayed in conso
 https://example.com/raw.html?tg_user_id=123
 
 Don't forget to specify infura key.
+
+
+use it in your scam projects, but don't mention my name.
